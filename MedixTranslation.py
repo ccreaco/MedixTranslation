@@ -1,10 +1,4 @@
-'''
-Medix Translation
-CST8333 - Assignment 3
-@author: Cassidy Creaco 
-Student no: 040688954
-100% of Source Code
-'''
+
 
 from tkinter import *
 import tkinter.messagebox as MessageBox
